@@ -1,0 +1,14 @@
+/home/aleksandr/RiderProjects/Paragonex/TechnicalTask/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/aleksandr/RiderProjects/Paragonex/TechnicalTask/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/aleksandr/RiderProjects/Paragonex/TechnicalTask/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/aleksandr/RiderProjects/Paragonex/TechnicalTask/bin/Debug/netcoreapp2.1/TechnicalTask.deps.json
+/home/aleksandr/RiderProjects/Paragonex/TechnicalTask/bin/Debug/netcoreapp2.1/TechnicalTask.runtimeconfig.json
+/home/aleksandr/RiderProjects/Paragonex/TechnicalTask/bin/Debug/netcoreapp2.1/TechnicalTask.runtimeconfig.dev.json
+/home/aleksandr/RiderProjects/Paragonex/TechnicalTask/bin/Debug/netcoreapp2.1/TechnicalTask.dll
+/home/aleksandr/RiderProjects/Paragonex/TechnicalTask/bin/Debug/netcoreapp2.1/TechnicalTask.pdb
+/home/aleksandr/RiderProjects/Paragonex/TechnicalTask/obj/Debug/netcoreapp2.1/TechnicalTask.csprojAssemblyReference.cache
+/home/aleksandr/RiderProjects/Paragonex/TechnicalTask/obj/Debug/netcoreapp2.1/TechnicalTask.csproj.CoreCompileInputs.cache
+/home/aleksandr/RiderProjects/Paragonex/TechnicalTask/obj/Debug/netcoreapp2.1/TechnicalTask.AssemblyInfoInputs.cache
+/home/aleksandr/RiderProjects/Paragonex/TechnicalTask/obj/Debug/netcoreapp2.1/TechnicalTask.AssemblyInfo.cs
+/home/aleksandr/RiderProjects/Paragonex/TechnicalTask/obj/Debug/netcoreapp2.1/TechnicalTask.dll
+/home/aleksandr/RiderProjects/Paragonex/TechnicalTask/obj/Debug/netcoreapp2.1/TechnicalTask.pdb
